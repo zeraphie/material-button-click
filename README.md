@@ -8,7 +8,7 @@ Usage:
 ```javascript
 $(document).ready(function() {
 		var $click = $('.clickhere');
-		$click.addClicker({
+		$click.mbClicker({
 				size: 300, //Maximum size of circle
 				speed: 750, //Time of animation in miliseconds
 				colour: 'rgba(0,0,0,0.11)', //Colour of circle and shadow
