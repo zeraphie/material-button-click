@@ -1,4 +1,4 @@
-# Material Button Click v1.0
+# Material Button Click
 A jQuery plugin that creates a material button click feel with some options
 
 <a href="http://lopeax.github.io/material-button-click/" target="\_blank">Click here</a> for a demo of it in action
