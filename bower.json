@@ -1,0 +1,26 @@
+{
+  "name": "material-button-click",
+  "description": "A jQuery plugin that creates a material button click feel with some options",
+  "main": [
+    "mbclicker.min.js",
+    "mbclicker.js"
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": [
+    "google",
+    "material",
+    "design",
+    "button",
+    "material button click"
+  ],
+  "authors": [
+    "Tony Lopez <antoniolopezhernandez@hotmail.co.uk>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lopeax/material-button-click.git"
+  },
+  "license": "MIT"
+}
